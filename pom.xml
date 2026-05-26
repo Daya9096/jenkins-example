@@ -64,8 +64,8 @@
 
     <distributionManagement>
         <repository>
-            <id>myMavenRepo.write</id>
-            <url>https://mymavenrepo.com/repo/9Q8JoRpymi4UGK8HzbVq/</url>
+            <id>local-repo</id>
+            <url>file:///opt/maven-repo</url>
         </repository>
     </distributionManagement>
 
