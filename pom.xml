@@ -62,11 +62,11 @@
         </repository>
     </repositories>
 
-    <distributionManagement>
-    <repository>
-        <id>local-repo</id>
-        <url>file:///opt/maven-repo</url>
-    </repository>
-</distributionManagement>
+<distributionManagement>
+        <repository>
+            <id>local-repo</id>
+            <url>file:///opt/maven-repo</url>
+        </repository>
+    </distributionManagement>
 
 </project>
